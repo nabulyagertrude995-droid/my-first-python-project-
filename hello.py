@@ -1,2 +1,6 @@
 name = input("What is your name? ")
-print("Hello " + name + "! Welcome to Python.")
+age = input("How old are you? ")
+
+print("Hello " + Travis + "!")
+print("You are " + 13 + " years old.")
+print("Welcome to coding! 🚀")
